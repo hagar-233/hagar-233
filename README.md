@@ -2,7 +2,7 @@
   <br>Hi there! <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"><br>
   <br> I'm Hagar Ahmed — Aspiring Front-End Developer 👩‍💻<br>
   <br>
-<img src="[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)" alt="Female Coder" width="500">
+<img src="[[https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)](https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112)" alt="Female Coder" width="500">
 </h2> 
 
 ---
