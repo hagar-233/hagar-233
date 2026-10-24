@@ -18,13 +18,17 @@
 
 ---
 
-### 👩‍🎓 About Me:
+👩‍💻 About Me
+Hi! I'm a Computer and Information Science student at Assiut University with a strong interest in Data Analysis and Business Intelligence.
 
-- 🎓 I'm a Computer Science student with a growing passion for Front-End development.
-- 💻 Learned the basics of **C++** and **C#**, and currently exploring **Object-Oriented Programming in C#**.
-- 🎨 I enjoy creating clean, responsive web pages using **HTML** and **CSS**.
-- 🧰 Comfortable using **Visual Studio Code** and **Visual Studio** for development.
-- 📈 Always aiming to learn, practice, and improve my skills day by day.
+- 📊 Interested in transforming raw data into meaningful insights.
+- 📈 Building interactive dashboards using Power BI and Excel.
+- 🗄️ Using SQL to query, clean, and analyze data.
+- 🐍 Learning Python to expand my data analysis skills.
+- 💡 Enjoy solving problems and discovering insights through data.
+- 🚀 Continuously learning and working on practical projects to improve my skills.
+
+I'm always looking for opportunities to learn, grow, and apply my knowledge to real-world data challenges.
 
 ---
 
