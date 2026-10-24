@@ -12,6 +12,7 @@
 <p align="left"> 
  <img src= "https://devicons.io/devicons/icons/microsoft-excel.svg" alt="Excel" height="45" />
    <img src= "https://devicons.io/devicons/icons/microsoft-sql-server.svg" alt="SQL" height="45" />
+    <img src= "https://raw.githubusercontent.com/microsoft/PowerBI-Icons/24f1db8bdfab951c25db591772140d2f4ec5bc1e/SVG/Power-BI.svg" alt="Power BI" height="45" />
 </p>
 
 ---
