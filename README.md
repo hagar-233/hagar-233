@@ -9,13 +9,8 @@
 
 ### 🛠 Technologies and Tools I Use:
 
-<p align="left">
+<p align="left"> 
   <a href="https://www.w3.org/html/" target="_blank"><img src="C:\Users\dell\OneDrive\Pictures\Microsoft-Power-BI-Logo.webp" alt="HTML5" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/></a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/></a>
-  <a href="https://cplusplus.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/></a>
-  <a href="https://visualstudio.microsoft.com/" target="_blank"><img src="https://img.icons8.com/color/48/visual-studio.png" alt="Visual Studio" width="40" height="40"/></a>
 </p>
 
 ---
