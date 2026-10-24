@@ -3,14 +3,14 @@
   <br> I'm Hagar Ahmed — Aspiring Front-End Developer 👩‍💻<br>
   <br>
 <img src="https://cdnb.artstation.com/p/assets/images/images/028/991/999/original/anna-havrylyukh-.gif?1596125112" alt="Female Coder" width="500">
-</h2> 
+</h2>
 
 ---
 
 ### 🛠 Technologies and Tools I Use:
 
 <p align="left"> 
-  <a href="https://www.w3.org/html/" target="_blank"><img src="C:\Users\dell\OneDrive\Pictures\Microsoft-Power-BI-Logo.webp" alt="HTML5" width="40" height="40"/></a>
+ <img src= "https://devicons.io/devicons/icons/microsoft-excel.svg" alt="Excel" height="45" />
 </p>
 
 ---
