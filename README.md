@@ -11,6 +11,7 @@
 
 <p align="left"> 
  <img src= "https://devicons.io/devicons/icons/microsoft-excel.svg" alt="Excel" height="45" />
+   <img src= "https://devicons.io/devicons/icons/microsoft-sql-server.svg" alt="SQL" height="45" />
 </p>
 
 ---
